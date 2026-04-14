@@ -244,6 +244,13 @@ Gather tools that can help you market your product effectively and grow your aud
 | [Sensor Tower](https://sensortower.com/)          | App store analytics and insights. | Free / Per feature |
 | [Google Trends](https://trends.google.com/trends) | Search analytics and insights.    | Free               |
 
+### App Store Optimization (ASO)
+
+| Tool                                     | Description                                                                                                          | Pricing           |
+| ---------------------------------------- | -------------------------------------------------------------------------------------------------------------------- | ----------------- |
+| [Shotlingo](https://shotlingo.com)       | AI-powered App Store & Google Play screenshot localization to 40+ languages. Handles text expansion, RTL, and fonts. | Free / $15/month  |
+| [AppLaunchpad](https://theapplaunchpad.com/) | App screenshot maker with pre-designed templates and device frames.                                               | Free / Paid tiers |
+
 ### Launch and Community Platforms
 
 | Tool                                                                             | Description                                                             |
